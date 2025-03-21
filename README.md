@@ -1,4 +1,5 @@
-#mini-project-ai
+### mini-project-ai
 
-model : support vector machine (parameter default)
+model : support vector machine (parameter default) 
+<br>
 framework : flask
